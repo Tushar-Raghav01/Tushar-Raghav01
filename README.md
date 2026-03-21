@@ -21,7 +21,7 @@
 ## 🌐 Coding Profiles
 - 💡 LeetCode: https://leetcode.com/u/jKogE1EW91/
 - 🏆 Codeforces: https://codeforces.com/profile/tushar_raghav
-- 💻 GitHub: https://github.com/Tushar31012006
+- 💻 GitHub: https://github.com/Tushar-Raghav01
 
 ---
 
