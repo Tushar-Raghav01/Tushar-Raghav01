@@ -42,17 +42,17 @@
 ---
 
 ## 📊 GitHub Stats
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar31012006&show_icons=true&theme=tokyonight)
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar-Raghav016&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Tushar31012006&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tushar-Raghav01&theme=tokyonight)
 
 ---
 
 ## 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar31012006&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Raghav01&layout=compact&theme=tokyonight)
 
 ---
 
