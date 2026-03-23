@@ -42,7 +42,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar-Raghav016&show_icons=true&theme=tokyonight)
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar-Raghav01&show_icons=true&theme=tokyonight)
 
 ---
 
