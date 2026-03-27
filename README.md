@@ -38,17 +38,6 @@
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-
----
-
-## 📊 GitHub Stats
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar-Raghav01&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Tushar-Raghav01&theme=tokyonight)
-
 ---
 
 ## 📈 Most Used Languages
